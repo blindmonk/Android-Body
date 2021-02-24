@@ -1,10 +1,8 @@
-| Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ |
-| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: |
-| 编程语言 [:bowtie:](#编程语言) | 计算机基础 [:blush:](#计算机基础-computer) | Android基础 [:smirk:](#Android基础-pencil2) | 性能优化 [:kissing_closed_eyes:](#性能优化-trophy) | 源码学习 [:satisfied:](#源码学习) | 架构设计 [:kissing:](#架构设计) | Framework [:stuck_out_tongue_closed_eyes:](#Framework) |
+# Android-Body
+<div align="center">
+<img src="https://github.com/blindmonk/Android-Body/blob/main/Android%E7%9F%A5%E8%AF%86%E5%9B%BE%E9%89%B4%20(2).png">
+</div>
 
-| Ⅷ | Ⅸ | Ⅹ | Ⅺ | Ⅻ | XIII | XIV |
-| :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------:|
-| 数据结构算法 [:joy:](#数据结构算法) | 多媒体 [:yum:](#多媒体) | NDK [:dizzy_face:](#NDK) | 插件 [:sunglasses:](#插件) | 成长 [:alien:](#成长) | 测试相关 [:neckbeard:](#测试相关) | 面试 [:heart_eyes:](#面试) |
 
 
 ## 编程语言
@@ -146,4 +144,28 @@
 > content
 ### 开放性问题
 > content
+
+## 赞赏
+
+如果这个库对您有很大帮助，您愿意支持这个项目的进一步开发和这个项目的持续维护。你可以扫描下面的二维码，让我喝一杯咖啡或啤酒。非常感谢您的捐赠。谢谢！
+
+<div align="center">
+<img src="https://github.com/blindmonk/Android-Body/blob/main/1bb9d3cb12606dafa9adbba6cc73a51.jpg" width=20%><img src="https://github.com/blindmonk/Android-Body/blob/main/97ba769413598dca8c8a292871150dd.png" width=20%>
+</div>
+
+## 联系我
+
+###  ●  微信：
+
+> 欢迎关注我的微信：`w310090971`  
+
+###  ●  微信群：
+
+> **微信群有限制，麻烦大家想进微信群的朋友们，加我微信拉你进群。**
+
+        
+
+###  ●  关于我
+
+- #### 掘金: [https://juejin.cn/user/166781495818408](https://juejin.cn/user/166781495818408)
 
