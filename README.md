@@ -34,14 +34,28 @@
 > content
 
 ## 性能优化
-### 四大组件
+### 卡顿优化
 > content
-### 启动模式
+### 内存优化
 > content
-### 动画
+### 稳定性优化
 > content
-### 其他
+### 电量优化
 > content
+### 包体积优化
+> content
+### 网络优化
+> content
+### 启动速度优化
+> content
+### WebView优化
+> content
+### 安全优化
+> content
+### 布局加载优化
+> content
+### Studio编译速度优化
+* [Android&Kotlin编译速度原理剖析（上）](https://juejin.cn/post/6924918885259378702)
 
 ## 源码学习
 ### 系统源码
